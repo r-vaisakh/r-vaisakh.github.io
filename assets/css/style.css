@@ -245,3 +245,27 @@ h1 {
 .publication-profiles {
   margin-top: 70px;
 }
+
+.publication-profiles-top {
+  margin: 0 0 32px;
+  padding: 16px 20px;
+  border-left: 3px solid #161616;
+  background: #f6f6f6;
+}
+
+.publication-profiles-top p {
+  margin: 0;
+  font-size: 0.98rem;
+  line-height: 1.65;
+}
+
+.publication-profiles-top a {
+  color: #161616;
+  font-weight: 500;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.publication-profiles-top a:hover {
+  opacity: 0.55;
+}
