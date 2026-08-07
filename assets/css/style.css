@@ -174,3 +174,74 @@ h1 {
 .research-block p {
   margin-bottom: 16px;
 }
+
+.page-intro {
+  margin-bottom: 60px;
+  max-width: 700px;
+}
+
+.publication-section {
+  margin-bottom: 70px;
+}
+
+.publication-section h2,
+.publication-profiles h2 {
+  font-size: 1.55rem;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+
+.publication {
+  margin-bottom: 38px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.pub-year {
+  margin: 0 0 8px;
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.55;
+}
+
+.publication h3 {
+  margin: 0 0 10px;
+  font-size: 1.15rem;
+  line-height: 1.45;
+  font-weight: 500;
+}
+
+.pub-authors,
+.pub-status {
+  margin: 5px 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.pub-status {
+  opacity: 0.65;
+}
+
+.pub-links {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.pub-links a,
+.publication-profiles a {
+  color: #161616;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.pub-links a:hover,
+.publication-profiles a:hover {
+  opacity: 0.55;
+}
+
+.publication-profiles {
+  margin-top: 70px;
+}
