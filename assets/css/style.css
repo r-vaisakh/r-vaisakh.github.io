@@ -12,6 +12,11 @@ body {
   min-height: 100vh;
 }
 
+
+/* =========================
+   HOMEPAGE
+   ========================= */
+
 .hero {
   min-height: 100vh;
   display: flex;
@@ -103,19 +108,10 @@ h1 {
   opacity: 0.7;
 }
 
-@media (max-width: 600px) {
-  .hero {
-    padding: 30px 20px;
-  }
 
-  .main-nav {
-    gap: 15px;
-  }
-
-  .subtitle {
-    line-height: 1.5;
-  }
-}
+/* =========================
+   GENERAL INTERNAL PAGES
+   ========================= */
 
 .page {
   min-height: 100vh;
@@ -137,6 +133,7 @@ h1 {
   color: #161616;
   text-decoration: none;
   font-size: 0.9rem;
+  transition: opacity 0.2s ease;
 }
 
 .page-nav a:hover {
@@ -161,6 +158,62 @@ h1 {
   margin-bottom: 24px;
 }
 
+.page-intro {
+  margin-bottom: 60px;
+  max-width: 700px;
+}
+
+
+/* =========================
+   ABOUT PAGE
+   ========================= */
+
+.about-intro {
+  display: grid;
+  grid-template-columns: 130px 1fr;
+  gap: 30px;
+  align-items: start;
+  margin-top: 10px;
+  margin-bottom: 45px;
+}
+
+.profile-photo {
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 5px;
+}
+
+.about-text p {
+  margin-top: 0;
+  margin-bottom: 18px;
+}
+
+.about-details {
+  margin-top: 20px;
+}
+
+.about-details h2 {
+  margin-top: 36px;
+  margin-bottom: 10px;
+  font-size: 1.35rem;
+  font-weight: 500;
+}
+
+.about-details p {
+  margin-top: 0;
+}
+
+.interest-list {
+  line-height: 1.8;
+}
+
+
+/* =========================
+   RESEARCH PAGE
+   ========================= */
+
 .research-block {
   margin-bottom: 60px;
 }
@@ -175,10 +228,10 @@ h1 {
   margin-bottom: 16px;
 }
 
-.page-intro {
-  margin-bottom: 60px;
-  max-width: 700px;
-}
+
+/* =========================
+   PUBLICATIONS PAGE
+   ========================= */
 
 .publication-section {
   margin-bottom: 70px;
@@ -270,48 +323,101 @@ h1 {
   opacity: 0.55;
 }
 
-.about-intro {
-  display: grid;
-  grid-template-columns: 210px 1fr;
-  gap: 42px;
-  align-items: start;
-  margin-bottom: 55px;
+
+/* =========================
+   TALKS PAGE
+   ========================= */
+
+.talk-section {
+  margin-bottom: 70px;
 }
 
-.profile-photo {
-  width: 210px;
-  height: 210px;
-  object-fit: cover;
-  border-radius: 4px;
+.talk-section h2 {
+  font-size: 1.55rem;
+  font-weight: 500;
+  margin-bottom: 30px;
 }
 
-.about-text p:first-child {
-  margin-top: 0;
+.talk {
+  margin-bottom: 34px;
+  padding-bottom: 26px;
+  border-bottom: 1px solid #e8e8e8;
 }
 
-.about-details {
-  margin-top: 25px;
+.talk-year {
+  margin: 0 0 8px;
+  font-size: 0.8rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  opacity: 0.55;
 }
 
-.about-details h2 {
-  margin-top: 38px;
-  margin-bottom: 12px;
-  font-size: 1.35rem;
+.talk h3 {
+  margin: 0 0 8px;
+  font-size: 1.12rem;
+  line-height: 1.45;
   font-weight: 500;
 }
 
-.about-details p {
-  margin-top: 0;
+.talk p {
+  margin: 4px 0;
 }
 
+
+/* =========================
+   CV STYLES
+   ========================= */
+
+.cv-button {
+  display: inline-block;
+  padding: 11px 18px;
+  margin-bottom: 30px;
+  border: 1px solid #161616;
+  color: #161616;
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.cv-button:hover {
+  background: #161616;
+  color: #ffffff;
+}
+
+
+/* =========================
+   MOBILE
+   ========================= */
+
 @media (max-width: 700px) {
+
+  .hero {
+    padding: 30px 20px;
+  }
+
+  .main-nav {
+    gap: 15px;
+  }
+
+  .subtitle {
+    line-height: 1.5;
+  }
+
+  .page-nav {
+    gap: 16px;
+    padding: 24px 20px;
+  }
+
+  .page-content {
+    padding: 55px 20px 90px;
+  }
+
   .about-intro {
     grid-template-columns: 1fr;
-    gap: 25px;
+    gap: 22px;
   }
 
   .profile-photo {
-    width: 180px;
-    height: 180px;
+    width: 120px;
+    height: 120px;
   }
 }
