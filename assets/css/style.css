@@ -269,3 +269,49 @@ h1 {
 .publication-profiles-top a:hover {
   opacity: 0.55;
 }
+
+.about-intro {
+  display: grid;
+  grid-template-columns: 210px 1fr;
+  gap: 42px;
+  align-items: start;
+  margin-bottom: 55px;
+}
+
+.profile-photo {
+  width: 210px;
+  height: 210px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.about-text p:first-child {
+  margin-top: 0;
+}
+
+.about-details {
+  margin-top: 25px;
+}
+
+.about-details h2 {
+  margin-top: 38px;
+  margin-bottom: 12px;
+  font-size: 1.35rem;
+  font-weight: 500;
+}
+
+.about-details p {
+  margin-top: 0;
+}
+
+@media (max-width: 700px) {
+  .about-intro {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+
+  .profile-photo {
+    width: 180px;
+    height: 180px;
+  }
+}
