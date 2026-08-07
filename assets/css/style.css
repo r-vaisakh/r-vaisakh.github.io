@@ -160,3 +160,17 @@ h1 {
   line-height: 1.8;
   margin-bottom: 24px;
 }
+
+.research-block {
+  margin-bottom: 60px;
+}
+
+.research-block h2 {
+  font-size: 1.55rem;
+  margin-bottom: 16px;
+  font-weight: 500;
+}
+
+.research-block p {
+  margin-bottom: 16px;
+}
