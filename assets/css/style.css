@@ -170,7 +170,7 @@ h1 {
 
 .about-intro {
   display: grid;
-  grid-template-columns: 485px 1fr;
+  grid-template-columns: 985px 1fr;
   gap: 34px;
   align-items: start;
   margin-top: 10px;
@@ -178,8 +178,8 @@ h1 {
 }
 
 .profile-photo {
-  width: 485px;
-  height: 485px;
+  width: 985px;
+  height: 985px;
   object-fit: cover;
   object-position: center;
   border-radius: 5px;
