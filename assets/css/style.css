@@ -178,8 +178,8 @@ h1 {
 }
 
 .profile-photo {
-  width: 155px;
-  height: 155px;
+  width: 185px;
+  height: 185px;
   object-fit: cover;
   object-position: center;
   border-radius: 5px;
