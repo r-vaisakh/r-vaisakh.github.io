@@ -1,0 +1,138 @@
+---
+title: ""
+---
+
+<div class="research-header">
+
+<div class="eyebrow">
+RESEARCH
+</div>
+
+# Understanding how galaxies trace the Universe.
+
+My research lies at the intersection of **observational cosmology,
+large-scale structure, cosmological simulations, and statistical
+modelling**.
+
+I am particularly interested in how galaxies and quasars trace the
+underlying dark matter field, how this connection can be modelled
+realistically, and how observational and survey effects propagate
+into cosmological measurements.
+
+</div>
+
+
+## Galaxy–halo connection
+
+Galaxies form and evolve within dark matter halos, but the relationship
+between galaxies and halos is not directly observable.
+
+I use simulation-based approaches to model this connection and study
+how different galaxy populations occupy dark matter halos. My work
+includes **halo occupation models, subhalo-based approaches, and
+abundance-matching techniques** for DESI tracers including quasars
+and emission-line galaxies.
+
+A central goal is to understand how assumptions about the galaxy–halo
+connection affect the clustering of galaxies and quasars.
+
+**Key themes**
+
+`SHAM` · `HOD` · `Vpeak` · `Vmean` · `satellite fraction`
+
+
+## DESI and mock universes
+
+The **Dark Energy Spectroscopic Instrument (DESI)** is producing
+large spectroscopic samples of galaxies and quasars that enable
+precision measurements of the expansion history and growth of
+structure.
+
+My work contributes to the construction and validation of realistic
+DESI mock catalogs using large cosmological simulations, particularly
+**Uchuu and GLAM**.
+
+These simulations are used to produce reference and covariance mocks
+for DESI analyses, including lightcone catalogs for multiple tracer
+populations.
+
+**DESI tracers**
+
+- Emission-line galaxies (ELGs)
+- Luminous red galaxies (LRGs)
+- Quasars (QSOs)
+- Bright galaxy samples (BGS)
+
+The goal is to reproduce not only the broad properties of the observed
+samples, but also their clustering and survey-specific characteristics.
+
+
+## Large-scale structure
+
+The spatial distribution of galaxies contains information about the
+underlying matter field and the evolution of cosmic structure.
+
+I compare simulated and observed clustering across redshift bins and
+tracer populations to validate mock catalogs and quantify systematic
+uncertainties.
+
+My work includes **two-point and higher-order clustering statistics**,
+with applications to DESI reference mocks, covariance mocks, and
+cosmological analyses.
+
+A recurring theme is connecting the physics and modelling of galaxies
+to the statistics that are ultimately measured from a survey.
+
+
+## Survey realism and systematic effects
+
+A realistic mock catalog needs to reproduce more than the underlying
+cosmological density field.
+
+Real surveys contain observational effects that can modify measured
+clustering. I study the impact of **selection effects, redshift
+failures, survey geometry, and other observational systematics** on
+large-scale structure measurements.
+
+This includes work on redshift-failure modelling and its impact on
+two- and three-point statistics and constraints on primordial
+non-Gaussianity.
+
+
+## Time-domain cosmology
+
+Alongside my large-scale structure work, I have worked on the use of
+nearby **Type Ib/c core-collapse supernovae** for cosmology.
+
+Using ROTSE data, I have investigated cosmological distance measurements
+from stripped-envelope supernovae and the associated observational
+and time-domain systematics.
+
+This provides a complementary low-redshift perspective to my work with
+high-redshift spectroscopic surveys.
+
+
+## From simulations to cosmology
+
+A common thread throughout my research is the connection between
+simulations, observations, and cosmological inference.
+
+<div class="pipeline">
+
+<span>Dark matter</span>
+<span>→</span>
+<span>Halos</span>
+<span>→</span>
+<span>Galaxies</span>
+<span>→</span>
+<span>Survey</span>
+<span>→</span>
+<span>Clustering</span>
+<span>→</span>
+<span>Cosmology</span>
+
+</div>
+
+The broader goal is to develop increasingly realistic, simulation-based
+frameworks for extracting cosmological information from current and
+next-generation astronomical surveys.

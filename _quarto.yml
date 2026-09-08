@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Vaisakh Rajeev"
+
+  navbar:
+    background: transparent
+
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: research.qmd
+        text: Research
+
+      - href: publications.qmd
+        text: Publications
+
+      - href: about.qmd
+        text: About
+
+    right:
+      - href: Vaisakh_CV_2026_latest.pdf
+        text: CV
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+
+    css: styles.css
+
+    toc: false
+
+    smooth-scroll: true
+
+    link-external-newwindow: true

@@ -1,0 +1,93 @@
+---
+title: ""
+---
+
+<div class="home-page">
+
+<div class="home-profile">
+
+<div class="profile-photo">
+<img src="images/profile.jpg" alt="Vaisakh Rajeev">
+</div>
+
+<div class="eyebrow">
+OBSERVATIONAL COSMOLOGIST
+</div>
+
+<h1>Vaisakh Rajeev</h1>
+
+<div class="profile-subtitle">
+PhD in Physics &nbsp;|&nbsp; Large-Scale Structure &nbsp;|&nbsp; DESI Member & Builder
+</div>
+
+<div class="profile-divider"></div>
+
+<p class="profile-description">
+I study how galaxies trace the underlying structure of the Universe,
+combining large astronomical surveys, cosmological simulations,
+and statistical modelling.
+</p>
+
+<div class="social-links">
+
+<a href="mailto:vvaisakh@smu.edu" aria-label="Email">
+Email
+</a>
+
+<a href="https://github.com/r-vaisakh"
+target="_blank"
+aria-label="GitHub">
+GitHub
+</a>
+
+<a href="https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg"
+target="_blank"
+aria-label="NASA ADS">
+ADS
+</a>
+
+</div>
+
+<div class="home-navigation">
+
+<a href="about.qmd" class="home-nav-button">
+About
+</a>
+
+<a href="research.qmd" class="home-nav-button">
+Research
+</a>
+
+<a href="publications.qmd" class="home-nav-button">
+Publications
+</a>
+
+<a href="about.qmd#desi" class="home-nav-button">
+DESI
+</a>
+
+<a href="about.qmd#talks" class="home-nav-button">
+Talks
+</a>
+
+<a href="Vaisakh_CV_2026_latest.pdf"
+target="_blank"
+class="home-nav-button home-nav-cv">
+CV
+</a>
+
+</div>
+
+<div class="home-interests">
+
+<span>Galaxy–halo connection</span>
+<span>Large-scale structure</span>
+<span>DESI &amp; mock universes</span>
+<span>Survey systematics</span>
+<span>Time-domain cosmology</span>
+
+</div>
+
+</div>
+
+</div>

@@ -1,0 +1,231 @@
+---
+title: ""
+---
+
+<div class="research-header">
+
+<div class="eyebrow">
+PUBLICATIONS
+</div>
+
+# Research publications
+
+My work spans large-scale structure, galaxy–halo connection,
+DESI survey simulations, observational systematics, and
+time-domain cosmology.
+
+<div class="publication-links">
+
+<a href="https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg"
+   target="_blank">
+View my complete publication list on NASA ADS →
+</a>
+
+</div>
+
+</div>
+
+
+## Selected research publications
+
+### 2026
+
+### DESI Y3 Reference Mocks: Clustering Results from Uchuu QSO and ELG Lightcones
+
+**Vaisakh, R., Lasker, J., Kehoe, R., et al.**  
+*arXiv:2606.28559*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### Cosmological Distance Measurements from Stripped Core-Collapse Type Ib/c Supernovae
+
+**Vaisakh, R., Kehoe, R., et al.**  
+*Manuscript in preparation*
+
+
+### Revisiting Redshift-Failure Modelling and its Impact on 2 + 3pt Statistics and fNL for DESI Y3
+
+**Vaisakh, R., Krolewski, A., et al.**  
+*Manuscript in preparation*
+
+
+### DESI DR2 GLAM–Uchuu Covariance Mocks: Clustering Results from ELGs and QSOs
+
+**Vaisakh, R., Khan, N. K., Amalbert, A., et al.**  
+*Manuscript in preparation*
+
+
+### DESI DR2 BAO Cosmology from GLAM–Uchuu N-body Covariance Matrices
+
+**Prada, F., Fernández-García, E., Vaisakh, R., et al.**  
+*Manuscript in preparation*
+
+
+### DESI DR2 GLAM–Uchuu Covariance Mocks: Clustering Results from BGS-BRIGHT and LRG
+
+**Fernández-García, E., Prada, F., Vaisakh, R., et al.**  
+*Manuscript in preparation*
+
+
+### DESI DR2 GLAM–Uchuu Covariance Mocks: BAO Measurement with Mock-Based Covariance
+
+**Li, Q., Dawson, K., Prada, F., Fernández-García, E., Vaisakh, R., et al.**  
+*Manuscript in preparation*
+
+
+### Characterizing Photonic Ring Resonator Filters for OH-Suppressed Near-Infrared Astronomy
+
+**Hermann, A., Lasker, J., Vaisakh, R., et al.**  
+*JAAVSO, 54(1)*
+
+
+### 2025
+
+### DESI DR2 Reference Mocks: Clustering Results from Uchuu-BGS and LRG
+
+**Fernández-García, E., Prada, F., Smith, A., et al., including Vaisakh, R.**  
+*arXiv:2507.01593*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### The DESI One-Percent Survey: Modelling the Clustering and Halo Occupation of All Four DESI Tracers with Uchuu
+
+**Prada, F., Ereza, J., Smith, A., Lasker, J., Vaisakh, R., Kehoe, R., et al.**  
+*Astronomy & Astrophysics, 698, A170*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### 2018
+
+### Effect of Annealing Temperature on the Structure and Optical Properties of ZnO Nanoparticles for Possible Anti-Bacterial Applications
+
+**Bhattacherjee, A. B., Rai, M., Kashyap, K., Khurana, A., Vaisakh, R., et al.**  
+*Optik, 158, 1006–1015*
+
+
+---
+
+## Major DESI Collaboration Papers
+
+I have also contributed to major publications from the
+**Dark Energy Spectroscopic Instrument (DESI) Collaboration**,
+covering the survey data releases, large-scale structure
+measurements, baryon acoustic oscillations, and cosmological
+constraints.
+
+### 2025
+
+### Data Release 1 of the Dark Energy Spectroscopic Instrument
+
+**Karim, M. A., Adame, A. G., Aguado, D., Aguilar, J., Ahlen, S., Alam, S., et al.**
+
+*arXiv:2503.14745*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### DESI DR2 Results II: Measurements of Baryon Acoustic Oscillations and Cosmological Constraints
+
+**Karim, M. A., Aguilar, J., Ahlen, S., Alam, S., Allen, L., Prieto, C. A., et al.**
+
+*arXiv:2503.14738*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### Validation of the DESI DR2 Measurements of Baryon Acoustic Oscillations from Galaxies and Quasars
+
+**Andrade, U., Paillas, E., Mena-Fernández, J., Li, Q., Ross, A. J., Nadathur, S., et al.**
+
+*arXiv:2503.14742*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### DESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations
+
+**Adame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.**
+
+*Journal of Cosmology and Astroparticle Physics, 2025(02), 021*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### DESI 2024 IV: Baryon Acoustic Oscillations from the Lyman-α Forest
+
+**Adame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.**
+
+*Journal of Cosmology and Astroparticle Physics, 2025(01), 124*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### 2024
+
+### DESI 2024 II: Sample Definitions, Characteristics, and Two-Point Clustering Statistics
+
+**Adame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.**
+
+*arXiv:2411.12020*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars
+
+**Adame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.**
+
+*arXiv:2404.03000*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars
+
+**Adame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.**
+
+*arXiv:2411.12021*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements
+
+**Adame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.**
+
+*arXiv:2411.12022*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### The Early Data Release of the Dark Energy Spectroscopic Instrument
+
+**Adame, A. G., Aguilar, J., Ahlen, S., Alam, S., Aldering, G., Alexander, D. M., et al.**
+
+*The Astronomical Journal, 168(2), 58*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+### Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument
+
+**Adame, A. G., Aguilar, J., Ahlen, S., Alam, S., Aldering, G., Alexander, D. M., et al.**
+
+*The Astronomical Journal, 167(2), 62*
+
+[ADS →](https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg)
+
+
+---
+
+<div class="publication-links">
+
+<a href="https://ui.adsabs.harvard.edu/user/libraries/SrLKQHqjQH-QXsYZwiObrg"
+   target="_blank">
+View complete publication list on NASA ADS →
+</a>
+
+</div>

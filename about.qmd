@@ -1,0 +1,189 @@
+---
+title: ""
+---
+
+<div class="research-header">
+
+<div class="eyebrow">
+ABOUT
+</div>
+
+# Vaisakh Rajeev
+
+I am a physicist working in **observational cosmology and
+large-scale structure**, with research spanning astronomical surveys,
+cosmological simulations, galaxy–halo modelling, and time-domain
+astronomy.
+
+I recently completed my Ph.D. in Physics at **Southern Methodist
+University**, where I worked with Dr. Robert Kehoe on measurements of
+cosmic expansion using quasars, galaxies, and local supernovae.
+
+</div>
+
+
+## Research experience
+
+### Southern Methodist University
+
+**Ph.D. in Physics**  
+2020–2026
+
+Advisor: Dr. Robert Kehoe
+
+Dissertation:
+
+*Measuring Cosmic Expansion from Early to Late Times using Quasars,
+Galaxies, and Local Supernovae*
+
+My doctoral research included DESI mock-catalog production and
+clustering validation, galaxy–halo connection modelling, survey
+systematics, redshift-failure modelling, and Type Ib/c supernova
+cosmology.
+
+
+### Indian Institute of Technology Hyderabad
+
+**M.Sc. Physics**  
+2017–2019
+
+M.Sc. thesis:
+
+*Tests of Violation of Inverse Square Law on Radio Pulsar Fluxes*
+
+Advisor: Dr. Shantanu Desai.
+
+
+### University of Delhi
+
+**B.Sc. (Honors) Physics**  
+2014–2017
+
+
+## DESI
+
+I have been involved with the **Dark Energy Spectroscopic Instrument
+(DESI)** as a collaborator and support observer.
+
+My DESI work includes mock-catalog production, clustering analyses,
+observational-systematics studies, and survey operations.
+
+I have contributed more than **1500 hours of DESI service**, including
+observing operations, software maintenance, analysis infrastructure,
+and systematic-effects studies.
+
+I have also participated in more than **50 remote and in-person
+observing shifts**.
+
+
+## Leadership & service
+
+### DESI Early Career Scientists Committee
+
+**Co-Chair**  
+2025–present
+
+### DESI Professional Development Committee
+
+**Early Career Scientist Liaison**  
+2024–present
+
+### DESI Early Career Scientists Committee
+
+**Member**  
+2024–present
+
+
+I have also served on organizing committees for scientific meetings,
+including the Texas APS Conference and the TACOS Cosmology Conference.
+
+
+## Awards & fellowships
+
+**Moody Dissertation Fellowship**  
+Southern Methodist University · 2025  
+$31,500
+
+**DESI Early Career Scientist Travel Grants**  
+2022–2025  
+$7,500
+
+**In-Person Observing Travel Grant**  
+Kitt Peak National Observatory · 2024  
+$1,200
+
+**Best Poster Award**  
+SMU Graduate Poster Session · 2024
+
+**People's Choice Award**  
+Three Minute Thesis, SMU · 2022
+
+**Charles W. Tittle Staring Line Award**  
+SMU · 2021
+
+**JENESYS 2018 Student Exchange Fellowship**  
+Ministry of Foreign Affairs, Japan · 2018
+
+**Summer Research Fellowship**  
+Indian Academy of Sciences · 2018
+
+
+## Teaching & mentoring
+
+I have taught and supported undergraduate physics courses at
+Southern Methodist University, including mechanics, electromagnetism,
+and introductory physics laboratories.
+
+I have also mentored undergraduate and graduate students working on
+topics including DESI science, ROTSE photometry, near-infrared
+astronomy, and observational astronomy.
+
+
+## Scientific computing
+
+My research relies heavily on scientific computing and large-scale
+data analysis.
+
+**Languages & tools**
+
+Python · NumPy · SciPy · pandas · Astropy · Matplotlib · Jupyter ·
+Bash · LaTeX
+
+**Computing & data**
+
+HPC · SLURM · Git/GitHub · FITS · HDF5 · Parquet · large-scale
+catalog processing · simulation workflows
+
+**Methods**
+
+Galaxy–halo modelling · HOD · subhalo modelling · clustering
+statistics · covariance estimation · forward modelling · systematic
+uncertainty analysis
+
+
+## Talks
+
+I regularly present my work at DESI collaboration meetings,
+cosmology conferences, and astronomy meetings.
+
+Selected invited talks include:
+
+**Galaxy–Halo Connection Modeling: Producing High-Fidelity Lightcones
+for DESI**  
+DESI Special Session, AAS Winter Meeting · 2026
+
+**Galaxy–Halo Connection Modeling: Producing High-Fidelity Lightcones
+for DESI**  
+TACOS Symposium · 2025
+
+**Probing the Expansion of the Universe using DESI**  
+IIT Hyderabad High Energy Physics Remote Seminar Series · 2024
+
+
+## Contact
+
+**Email:** vvaisakh@smu.edu
+
+**GitHub:** r-vaisakh
+
+A full curriculum vitae is available from the navigation above.
