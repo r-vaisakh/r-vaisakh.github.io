@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Vaisakh Rajeev",
+    "section": "",
+    "text": "ABOUT\n\n\n\nI am a physicist working in observational cosmology and large-scale structure, with research spanning astronomical surveys, cosmological simulations, galaxy–halo modelling, and time-domain astronomy.\nI recently completed my Ph.D. in Physics at Southern Methodist University, where I worked with Dr. Robert Kehoe on measurements of cosmic expansion using quasars, galaxies, and local supernovae."
+  },
+  {
+    "objectID": "about.html#research-experience",
+    "href": "about.html#research-experience",
+    "title": "Vaisakh Rajeev",
+    "section": "Research experience",
+    "text": "Research experience\n\nSouthern Methodist University\nPh.D. in Physics\n2020–2026\nAdvisor: Dr. Robert Kehoe\nDissertation:\nMeasuring Cosmic Expansion from Early to Late Times using Quasars, Galaxies, and Local Supernovae\nMy doctoral research included DESI mock-catalog production and clustering validation, galaxy–halo connection modelling, survey systematics, redshift-failure modelling, and Type Ib/c supernova cosmology.\n\n\nIndian Institute of Technology Hyderabad\nM.Sc. Physics\n2017–2019\nM.Sc. thesis:\nTests of Violation of Inverse Square Law on Radio Pulsar Fluxes\nAdvisor: Dr. Shantanu Desai.\n\n\nUniversity of Delhi\nB.Sc. (Honors) Physics\n2014–2017"
+  },
+  {
+    "objectID": "about.html#desi",
+    "href": "about.html#desi",
+    "title": "Vaisakh Rajeev",
+    "section": "DESI",
+    "text": "DESI\nI have been involved with the Dark Energy Spectroscopic Instrument (DESI) as a collaborator and support observer.\nMy DESI work includes mock-catalog production, clustering analyses, observational-systematics studies, and survey operations.\nI have contributed more than 1500 hours of DESI service, including observing operations, software maintenance, analysis infrastructure, and systematic-effects studies.\nI have also participated in more than 50 remote and in-person observing shifts."
+  },
+  {
+    "objectID": "about.html#leadership-service",
+    "href": "about.html#leadership-service",
+    "title": "Vaisakh Rajeev",
+    "section": "Leadership & service",
+    "text": "Leadership & service\n\nDESI Early Career Scientists Committee\nCo-Chair\n2025–present\n\n\nDESI Professional Development Committee\nEarly Career Scientist Liaison\n2024–present\n\n\nDESI Early Career Scientists Committee\nMember\n2024–present\nI have also served on organizing committees for scientific meetings, including the Texas APS Conference and the TACOS Cosmology Conference."
+  },
+  {
+    "objectID": "about.html#awards-fellowships",
+    "href": "about.html#awards-fellowships",
+    "title": "Vaisakh Rajeev",
+    "section": "Awards & fellowships",
+    "text": "Awards & fellowships\nMoody Dissertation Fellowship\nSouthern Methodist University · 2025\n$31,500\nDESI Early Career Scientist Travel Grants\n2022–2025\n$7,500\nIn-Person Observing Travel Grant\nKitt Peak National Observatory · 2024\n$1,200\nBest Poster Award\nSMU Graduate Poster Session · 2024\nPeople’s Choice Award\nThree Minute Thesis, SMU · 2022\nCharles W. Tittle Staring Line Award\nSMU · 2021\nJENESYS 2018 Student Exchange Fellowship\nMinistry of Foreign Affairs, Japan · 2018\nSummer Research Fellowship\nIndian Academy of Sciences · 2018"
+  },
+  {
+    "objectID": "about.html#teaching-mentoring",
+    "href": "about.html#teaching-mentoring",
+    "title": "Vaisakh Rajeev",
+    "section": "Teaching & mentoring",
+    "text": "Teaching & mentoring\nI have taught and supported undergraduate physics courses at Southern Methodist University, including mechanics, electromagnetism, and introductory physics laboratories.\nI have also mentored undergraduate and graduate students working on topics including DESI science, ROTSE photometry, near-infrared astronomy, and observational astronomy."
+  },
+  {
+    "objectID": "about.html#scientific-computing",
+    "href": "about.html#scientific-computing",
+    "title": "Vaisakh Rajeev",
+    "section": "Scientific computing",
+    "text": "Scientific computing\nMy research relies heavily on scientific computing and large-scale data analysis.\nLanguages & tools\nPython · NumPy · SciPy · pandas · Astropy · Matplotlib · Jupyter · Bash · LaTeX\nComputing & data\nHPC · SLURM · Git/GitHub · FITS · HDF5 · Parquet · large-scale catalog processing · simulation workflows\nMethods\nGalaxy–halo modelling · HOD · subhalo modelling · clustering statistics · covariance estimation · forward modelling · systematic uncertainty analysis"
+  },
+  {
+    "objectID": "about.html#talks",
+    "href": "about.html#talks",
+    "title": "Vaisakh Rajeev",
+    "section": "Talks",
+    "text": "Talks\nI regularly present my work at DESI collaboration meetings, cosmology conferences, and astronomy meetings.\nSelected invited talks include:\nGalaxy–Halo Connection Modeling: Producing High-Fidelity Lightcones for DESI\nDESI Special Session, AAS Winter Meeting · 2026\nGalaxy–Halo Connection Modeling: Producing High-Fidelity Lightcones for DESI\nTACOS Symposium · 2025\nProbing the Expansion of the Universe using DESI\nIIT Hyderabad High Energy Physics Remote Seminar Series · 2024"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "Vaisakh Rajeev",
+    "section": "Contact",
+    "text": "Contact\nEmail: vvaisakh@smu.edu\nGitHub: r-vaisakh\nA full curriculum vitae is available from the navigation above."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nVaisakh Rajeev\n",
+    "section": "",
+    "text": "OBSERVATIONAL COSMOLOGIST\n\n\nVaisakh Rajeev\n\n\nPhD in Physics  |  Large-Scale Structure  |  DESI Member & Builder\n\n\n\n\n\nI study how galaxies trace the underlying structure of the Universe, combining large astronomical surveys, cosmological simulations, and statistical modelling.\n\n\n Email \n GitHub \n ADS \n\n\n About \n Research \n Publications \n DESI \n Talks \n CV \n\n\nGalaxy–halo connection Large-scale structure DESI & mock universes Survey systematics Time-domain cosmology"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Understanding how galaxies trace the Universe.",
+    "section": "",
+    "text": "RESEARCH\n\n\n\nMy research lies at the intersection of observational cosmology, large-scale structure, cosmological simulations, and statistical modelling.\nI am particularly interested in how galaxies and quasars trace the underlying dark matter field, how this connection can be modelled realistically, and how observational and survey effects propagate into cosmological measurements."
+  },
+  {
+    "objectID": "research.html#galaxyhalo-connection",
+    "href": "research.html#galaxyhalo-connection",
+    "title": "Understanding how galaxies trace the Universe.",
+    "section": "Galaxy–halo connection",
+    "text": "Galaxy–halo connection\nGalaxies form and evolve within dark matter halos, but the relationship between galaxies and halos is not directly observable.\nI use simulation-based approaches to model this connection and study how different galaxy populations occupy dark matter halos. My work includes halo occupation models, subhalo-based approaches, and abundance-matching techniques for DESI tracers including quasars and emission-line galaxies.\nA central goal is to understand how assumptions about the galaxy–halo connection affect the clustering of galaxies and quasars.\nKey themes\nSHAM · HOD · Vpeak · Vmean · satellite fraction"
+  },
+  {
+    "objectID": "research.html#desi-and-mock-universes",
+    "href": "research.html#desi-and-mock-universes",
+    "title": "Understanding how galaxies trace the Universe.",
+    "section": "DESI and mock universes",
+    "text": "DESI and mock universes\nThe Dark Energy Spectroscopic Instrument (DESI) is producing large spectroscopic samples of galaxies and quasars that enable precision measurements of the expansion history and growth of structure.\nMy work contributes to the construction and validation of realistic DESI mock catalogs using large cosmological simulations, particularly Uchuu and GLAM.\nThese simulations are used to produce reference and covariance mocks for DESI analyses, including lightcone catalogs for multiple tracer populations.\nDESI tracers\n\nEmission-line galaxies (ELGs)\nLuminous red galaxies (LRGs)\nQuasars (QSOs)\nBright galaxy samples (BGS)\n\nThe goal is to reproduce not only the broad properties of the observed samples, but also their clustering and survey-specific characteristics."
+  },
+  {
+    "objectID": "research.html#large-scale-structure",
+    "href": "research.html#large-scale-structure",
+    "title": "Understanding how galaxies trace the Universe.",
+    "section": "Large-scale structure",
+    "text": "Large-scale structure\nThe spatial distribution of galaxies contains information about the underlying matter field and the evolution of cosmic structure.\nI compare simulated and observed clustering across redshift bins and tracer populations to validate mock catalogs and quantify systematic uncertainties.\nMy work includes two-point and higher-order clustering statistics, with applications to DESI reference mocks, covariance mocks, and cosmological analyses.\nA recurring theme is connecting the physics and modelling of galaxies to the statistics that are ultimately measured from a survey."
+  },
+  {
+    "objectID": "research.html#survey-realism-and-systematic-effects",
+    "href": "research.html#survey-realism-and-systematic-effects",
+    "title": "Understanding how galaxies trace the Universe.",
+    "section": "Survey realism and systematic effects",
+    "text": "Survey realism and systematic effects\nA realistic mock catalog needs to reproduce more than the underlying cosmological density field.\nReal surveys contain observational effects that can modify measured clustering. I study the impact of selection effects, redshift failures, survey geometry, and other observational systematics on large-scale structure measurements.\nThis includes work on redshift-failure modelling and its impact on two- and three-point statistics and constraints on primordial non-Gaussianity."
+  },
+  {
+    "objectID": "research.html#time-domain-cosmology",
+    "href": "research.html#time-domain-cosmology",
+    "title": "Understanding how galaxies trace the Universe.",
+    "section": "Time-domain cosmology",
+    "text": "Time-domain cosmology\nAlongside my large-scale structure work, I have worked on the use of nearby Type Ib/c core-collapse supernovae for cosmology.\nUsing ROTSE data, I have investigated cosmological distance measurements from stripped-envelope supernovae and the associated observational and time-domain systematics.\nThis provides a complementary low-redshift perspective to my work with high-redshift spectroscopic surveys."
+  },
+  {
+    "objectID": "research.html#from-simulations-to-cosmology",
+    "href": "research.html#from-simulations-to-cosmology",
+    "title": "Understanding how galaxies trace the Universe.",
+    "section": "From simulations to cosmology",
+    "text": "From simulations to cosmology\nA common thread throughout my research is the connection between simulations, observations, and cosmological inference.\n\nDark matter → Halos → Galaxies → Survey → Clustering → Cosmology\n\nThe broader goal is to develop increasingly realistic, simulation-based frameworks for extracting cosmological information from current and next-generation astronomical surveys."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Research publications",
+    "section": "",
+    "text": "PUBLICATIONS\n\n\n\nMy work spans large-scale structure, galaxy–halo connection, DESI survey simulations, observational systematics, and time-domain cosmology.\n\n View my complete publication list on NASA ADS →"
+  },
+  {
+    "objectID": "publications.html#selected-research-publications",
+    "href": "publications.html#selected-research-publications",
+    "title": "Research publications",
+    "section": "Selected research publications",
+    "text": "Selected research publications\n\n2026\n\n\nDESI Y3 Reference Mocks: Clustering Results from Uchuu QSO and ELG Lightcones\nVaisakh, R., Lasker, J., Kehoe, R., et al.\narXiv:2606.28559\nADS →\n\n\nCosmological Distance Measurements from Stripped Core-Collapse Type Ib/c Supernovae\nVaisakh, R., Kehoe, R., et al.\nManuscript in preparation\n\n\nRevisiting Redshift-Failure Modelling and its Impact on 2 + 3pt Statistics and fNL for DESI Y3\nVaisakh, R., Krolewski, A., et al.\nManuscript in preparation\n\n\nDESI DR2 GLAM–Uchuu Covariance Mocks: Clustering Results from ELGs and QSOs\nVaisakh, R., Khan, N. K., Amalbert, A., et al.\nManuscript in preparation\n\n\nDESI DR2 BAO Cosmology from GLAM–Uchuu N-body Covariance Matrices\nPrada, F., Fernández-García, E., Vaisakh, R., et al.\nManuscript in preparation\n\n\nDESI DR2 GLAM–Uchuu Covariance Mocks: Clustering Results from BGS-BRIGHT and LRG\nFernández-García, E., Prada, F., Vaisakh, R., et al.\nManuscript in preparation\n\n\nDESI DR2 GLAM–Uchuu Covariance Mocks: BAO Measurement with Mock-Based Covariance\nLi, Q., Dawson, K., Prada, F., Fernández-García, E., Vaisakh, R., et al.\nManuscript in preparation\n\n\nCharacterizing Photonic Ring Resonator Filters for OH-Suppressed Near-Infrared Astronomy\nHermann, A., Lasker, J., Vaisakh, R., et al.\nJAAVSO, 54(1)\n\n\n2025\n\n\nDESI DR2 Reference Mocks: Clustering Results from Uchuu-BGS and LRG\nFernández-García, E., Prada, F., Smith, A., et al., including Vaisakh, R.\narXiv:2507.01593\nADS →\n\n\nThe DESI One-Percent Survey: Modelling the Clustering and Halo Occupation of All Four DESI Tracers with Uchuu\nPrada, F., Ereza, J., Smith, A., Lasker, J., Vaisakh, R., Kehoe, R., et al.\nAstronomy & Astrophysics, 698, A170\nADS →\n\n\n2018\n\n\nEffect of Annealing Temperature on the Structure and Optical Properties of ZnO Nanoparticles for Possible Anti-Bacterial Applications\nBhattacherjee, A. B., Rai, M., Kashyap, K., Khurana, A., Vaisakh, R., et al.\nOptik, 158, 1006–1015"
+  },
+  {
+    "objectID": "publications.html#major-desi-collaboration-papers",
+    "href": "publications.html#major-desi-collaboration-papers",
+    "title": "Research publications",
+    "section": "Major DESI Collaboration Papers",
+    "text": "Major DESI Collaboration Papers\nI have also contributed to major publications from the Dark Energy Spectroscopic Instrument (DESI) Collaboration, covering the survey data releases, large-scale structure measurements, baryon acoustic oscillations, and cosmological constraints.\n\n2025\n\n\nData Release 1 of the Dark Energy Spectroscopic Instrument\nKarim, M. A., Adame, A. G., Aguado, D., Aguilar, J., Ahlen, S., Alam, S., et al.\narXiv:2503.14745\nADS →\n\n\nDESI DR2 Results II: Measurements of Baryon Acoustic Oscillations and Cosmological Constraints\nKarim, M. A., Aguilar, J., Ahlen, S., Alam, S., Allen, L., Prieto, C. A., et al.\narXiv:2503.14738\nADS →\n\n\nValidation of the DESI DR2 Measurements of Baryon Acoustic Oscillations from Galaxies and Quasars\nAndrade, U., Paillas, E., Mena-Fernández, J., Li, Q., Ross, A. J., Nadathur, S., et al.\narXiv:2503.14742\nADS →\n\n\nDESI 2024 VI: Cosmological Constraints from the Measurements of Baryon Acoustic Oscillations\nAdame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.\nJournal of Cosmology and Astroparticle Physics, 2025(02), 021\nADS →\n\n\nDESI 2024 IV: Baryon Acoustic Oscillations from the Lyman-α Forest\nAdame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.\nJournal of Cosmology and Astroparticle Physics, 2025(01), 124\nADS →\n\n\n2024\n\n\nDESI 2024 II: Sample Definitions, Characteristics, and Two-Point Clustering Statistics\nAdame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.\narXiv:2411.12020\nADS →\n\n\nDESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars\nAdame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.\narXiv:2404.03000\nADS →\n\n\nDESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars\nAdame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.\narXiv:2411.12021\nADS →\n\n\nDESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements\nAdame, A. G., Aguilar, J., Ahlen, S., Alam, S., Alexander, D. M., Alvarez, M., et al.\narXiv:2411.12022\nADS →\n\n\nThe Early Data Release of the Dark Energy Spectroscopic Instrument\nAdame, A. G., Aguilar, J., Ahlen, S., Alam, S., Aldering, G., Alexander, D. M., et al.\nThe Astronomical Journal, 168(2), 58\nADS →\n\n\nValidation of the Scientific Program for the Dark Energy Spectroscopic Instrument\nAdame, A. G., Aguilar, J., Ahlen, S., Alam, S., Aldering, G., Alexander, D. M., et al.\nThe Astronomical Journal, 167(2), 62\nADS →\n\n\n View complete publication list on NASA ADS →"
+  }
+]
